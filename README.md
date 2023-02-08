@@ -15,9 +15,7 @@ Hi I'm Selim
 <br>
 Web Site:
   <br>
-https://selim1337.tk
-  <br>
-https://selim1337.github.io
+https://seliim1337.netlify.app
   <br>
   <br>
   Discord: <a href="https://discord.com/users/546303073962950657">selim#1337</a>
