@@ -16,17 +16,17 @@
 </p>
 
 <p align = 'center'>
-    <a href="https://ko-fi.com/selim1337" target="_blank">
+    <a href="https://ko-fi.com/seliim1337" target="_blank">
         <img
             src="https://ko-fi.com/img/githubbutton_sm.svg"
         />
     </a>      
 </p>
 
-<a href="https://discord.com/users/546303073962950657"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/546303073962950657?bg=00000000&animated=false&idleMessage=kanımız%20biz%20gibi..." /></a>
+<a href="https://discord.com/users/546303073962950657"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/546303073962950657?idleMessage=Just%20chillin'%20at%20the%20moment..." /></a>
 
 - **Hi I'm Selim** 
-- **I have been interested in software and coding for 4 years.**
+- **I have been interested in software and coding for 5 years.**
 - **Web Site:**
 - *https://selim1337.tk*
 - *https://selim1337.github.io*
@@ -53,11 +53,11 @@
 
 ## &nbsp;GitHub Stats
 <p align = 'center'>
-    <img src='https://github-stats-alpha.vercel.app/api?username=selim1337&cc=000&tc=fff&ic=fff&bc=000'/>
+    <img src='https://github-stats-alpha.vercel.app/api?username=seliim1337&cc=000&tc=fff&ic=fff&bc=000'/>
 </p>
 
 <p align = 'center'> 
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=selim1337&hide_border=true&theme=highcontrast'>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=seliim1337&hide_border=true&theme=highcontrast'>
 </p>
 
 <img 
