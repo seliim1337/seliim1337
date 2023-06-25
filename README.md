@@ -11,14 +11,14 @@
 <samp>
 Hi I'm Selim
 <br>
-  I have been interested in software and coding for 5 years.
+  I am interested in software and coding.
 <br>
 Web Site:
   <br>
 https://seliim1337.netlify.app
   <br>
   <br>
-  Discord: <a href="https://discord.com/users/546303073962950657">selim#1337</a>
+  Discord: <a href="https://discord.com/users/546303073962950657">selim1337</a>
 </samp>
 
 <img 
