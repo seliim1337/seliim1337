@@ -7,7 +7,8 @@
     src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" 
    />
 </p> 
-<a href="https://discord.com/users/546303073962950657"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/546303073962950657?idleMessage=Just%20chillin'%20at%20the%20moment..." /></a>
+<a href="https://discord.com/users/546303073962950657"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/546303073962950657?idleMessage=The%20Best..." /></a> 
+<!--https://revard.meppu.boo/card/01HA9JZZQ7C843BYHZWRJNFZ9W-->
 <samp>
 Hi I'm Selim
 <br>
