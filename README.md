@@ -19,7 +19,7 @@ Web Site:
 https://seliim1337.netlify.app
   <br>
   <br>
-  Discord: <a href="https://discord.com/users/546303073962950657">selim1337</a>
+  Discord: <a href="https://discord.com/users/546303073962950657">selimstone</a>
 </samp>
 
 <img 
