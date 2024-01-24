@@ -1,7 +1,5 @@
 <p align="center">
-  <img 
-    src="Atatürk.gif"
-  >
+  <img src="Atatürk.gif">
 </p>
 <img 
     src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" 
@@ -21,13 +19,7 @@ https://seliim1337.netlify.app
   <br>
   Discord: <a href="https://discord.com/users/546303073962950657">selimstone</a>
 </samp>
-
 <img 
     src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" 
    />
-</p> 
-<p align="center">
-<img 
-aling="center" src="https://spotify-blond-beta.vercel.app/api/now-playing.svg" width="540" height="52"
-/>
 </p>
